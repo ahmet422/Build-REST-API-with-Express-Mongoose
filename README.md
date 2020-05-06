@@ -19,10 +19,6 @@ Now, lets install some useful packages.
 $ npm install express mongoose body-parser
 Here, we're installing Express for our web framework, mongoose to interact with our MongoDB database, and body-parser to parse our request body.
 
-I also have published the source-code of this entire project on my GitHub. Go ahead and clone this into your computer.
-
-$ git clone https://github.com/rahmanfadhil/learn-express-mongoose.git
-Basic Express Server
 We can now start to create index.js and create a simple Express server.
 
 // index.js
